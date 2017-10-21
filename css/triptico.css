@@ -1,0 +1,44 @@
+.encabezado{
+	width: 604px;
+	text-align: center;
+	background-color: orange;
+	border: thin solid black;
+	font-size: 12px;
+}
+
+.seccion{
+	width: 150px;
+	height: 390px;
+	text-align: center;
+	border: thin solid black;
+	float: left;
+}
+
+.centro{
+	width: 300px;
+	height: 390px;
+	text-align: center;
+	border: thin solid black;
+	float: left;
+}
+
+.pie{
+	width: 604px;
+	height: 390px;
+	text-align: center;
+	background-color: orange;
+	border: thin solid black;
+	font-size: 12px;
+}
+
+.img1{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+
+.img2{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
